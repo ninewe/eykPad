@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 0.02h | 1 |
+| Week 1 | Tier 1 | 0.25h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-05 — ![PNG image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/WKHlWTArmY0mZYT5WZnx8k27wposj8rz/b98b0cd94d7f0b183efc1fd3ffb818ec116edd2dc43c06469d7e67193712d07c.png)
 
-**0.02h**
+**0.25h**
 
 ![PNG image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/WKHlWTArmY0mZYT5WZnx8k27wposj8rz/b98b0cd94d7f0b183efc1fd3ffb818ec116edd2dc43c06469d7e67193712d07c.png)
 
@@ -32,7 +32,7 @@ Schematic:
 
 ![PNG image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/WKHlWTArmY0mZYT5WZnx8k27wposj8rz/97f77f37a525431853d524d3f00558c06e2f815d6e74159da215468c1b5605c2.png)
 
-(Logged zero hours because work is on lapse)
+(I will add fifteen  minutes, which is spent on footprint/parts research. Rest is lapse videos.)
 
 [Timelapse](https://lookout.hackclub.com/api/media/ab7d1ac2-cdb3-45bd-84aa-08826cc5ecb7/video.mp4)
 
