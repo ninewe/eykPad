@@ -35,10 +35,6 @@ Schematic:
 
 (I will add fifteen  minutes, which is spent on footprint/parts research. Rest is lapse videos.)
 
-[Timelapse](https://lookout.hackclub.com/api/media/ab7d1ac2-cdb3-45bd-84aa-08826cc5ecb7/video.mp4)
-
-[Timelapse](https://lookout.hackclub.com/api/media/36cd0763-2adf-4fdf-bcc2-7ee5959872a2/video.mp4)
-
 ### 2026-10-06 — ![Screenshot 2026-10-06 at 8.31.12 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/WKHlWTArmY0mZYT5WZnx8k27wposj8rz/289f8daa0ad5850755dfff0e2e3b12ea6d21d6dfb6c68149330e585fa36e397
 
 **1.33h**
