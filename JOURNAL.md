@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 2.55h | 2 |
+| Week 1 | Tier 1 | 3.66h | 2 |
 
 ## Contents
 
@@ -41,7 +41,7 @@ Schematic:
 
 ### 2026-10-06 — ![Screenshot 2026-10-06 at 8.31.12 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/WKHlWTArmY0mZYT5WZnx8k27wposj8rz/289f8daa0ad5850755dfff0e2e3b12ea6d21d6dfb6c68149330e585fa36e397
 
-**0.22h**
+**1.33h**
 
 ![Screenshot 2026-10-06 at 8.31.12 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/WKHlWTArmY0mZYT5WZnx8k27wposj8rz/289f8daa0ad5850755dfff0e2e3b12ea6d21d6dfb6c68149330e585fa36e397a.png)
 
@@ -52,3 +52,7 @@ I changed the amount of lights from 24 LED (4 by 6 matrix) to 30 LED (5 by 6 mat
 What really was hard though was routing and where to put all parts. Eventually, I put the microcontroller in the middle and all the LED connect to it. (don't worry if the microcontroller is a bit too low for the USB to reach, I will make sure that the case won't interfere with it)
 
 [Timelapse](https://lookout.hackclub.com/api/media/40d374ec-3b0b-4ef7-a879-84daaf5b4fb0/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/f53070ea-f378-4213-928d-8e304a068122/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/a2d40b95-6172-47c2-8c5e-61fc3a2bea91/video.mp4)
