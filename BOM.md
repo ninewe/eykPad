@@ -21,7 +21,7 @@
 | [RC0603FR-07470RL](https://www.digikey.com/en/products/detail/yageo/RC0603FR-07470RL/727256) | Resistors for LED. (for RED and YELLOW, 470 OHMS) | 20 | $0.03 | $0.60 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/RC0603FR-07470RL/727256) |
 | [RE0603FRE07330RL](https://www.digikey.com/en/products/detail/yageo/RE0603FRE07330RL/5923348) | Resistors for this LED. (for BLUE, 330 OHMS) | 10 | $0.06 | $0.60 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/RE0603FRE07330RL/5923348) |
 | **Parts subtotal** | — | — | — | **$21.03** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$21.03** | — |
+| **Tax & shipping** | — | — | — | **$4.99** | — |
+| **Total** | — | — | — | **$26.02** | — |
 
-$8.97 left of the tier's funding.
+$3.98 left of the tier's funding.
