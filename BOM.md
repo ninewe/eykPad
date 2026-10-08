@@ -15,13 +15,12 @@
 | [150080RS75000](https://www.digikey.com/en/products/detail/w-rth-elektronik/150080RS75000/4489918?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLliBca_8CoGRREvYeSftxtPPf&gclid=Cj0KCQjwuJLWBhD_ARIsAIBcRUyE15Ih_jkTIqsu-BNJK-R_mNFNQNt-TY-f5ciIsWRtXfK5UMoC-bQaAiLSEALw_wcB) | Outputs of this project. (Red LED) | 10 | $0.19 | $1.90 | [DigiKey](https://www.digikey.com/en/products/detail/w-rth-elektronik/150080RS75000/4489918?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLliBca_8CoGRREvYeSftxtPPf&gclid=Cj0KCQjwuJLWBhD_ARIsAIBcRUyE15Ih_jkTIqsu-BNJK-R_mNFNQNt-TY-f5ciIsWRtXfK5UMoC-bQaAiLSEALw_wcB) |
 | [150080BS75000](https://www.digikey.com/en/products/detail/würth-elektronik/150080BS75000/4489912?s=N4IgTCBcDaIIwFYAMSAcSBCBlA7MlIAugL5A) | Outputs of this project. (Blue LED) | 10 | $0.19 | $1.90 | [DigiKey](https://www.digikey.com/en/products/detail/würth-elektronik/150080BS75000/4489912?s=N4IgTCBcDaIIwFYAMSAcSBCBlA7MlIAugL5A) |
 | [150080YS75000](https://www.digikey.com/en/products/detail/würth-elektronik/150080YS75000/4489927?s=N4IgTCBcDaIIwFYAMSAcSCaBlA7MlIAugL5A) | Outputs of this project. (Yellow LED) | 10 | $0.19 | $1.90 | [DigiKey](https://www.digikey.com/en/products/detail/würth-elektronik/150080YS75000/4489927?s=N4IgTCBcDaIIwFYAMSAcSCaBlA7MlIAugL5A) |
-| [HDSM-543L](https://www.digikey.com/en/products/detail/broadcom-limited/HDSM-543L/2219036) | Outputs of this project. (7 segment display) | 1 | $7.29 | $7.29 | [DigiKey](https://www.digikey.com/en/products/detail/broadcom-limited/HDSM-543L/2219036) |
 | [SC0915](https://www.digikey.com/en/products/detail/raspberry-pi/SC0915/13624793) | The microcontroller. (Raspberry Pi Pico) | 1 | $4.59 | $4.59 | [DigiKey](https://www.digikey.com/en/products/detail/raspberry-pi/SC0915/13624793) |
 | [B3FS-1000P](https://www.digikey.com/en/products/detail/aratas-formerly-omron-components/B3FS-1000P/277812) | Inputs of this project. (The buttons) | 3 | $0.75 | $2.25 | [DigiKey](https://www.digikey.com/en/products/detail/aratas-formerly-omron-components/B3FS-1000P/277812) |
 | [RC0603FR-07470RL](https://www.digikey.com/en/products/detail/yageo/RC0603FR-07470RL/727256) | Resistors for LED. (for RED and YELLOW, 470 OHMS) | 20 | $0.03 | $0.60 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/RC0603FR-07470RL/727256) |
 | [RE0603FRE07330RL](https://www.digikey.com/en/products/detail/yageo/RE0603FRE07330RL/5923348) | Resistors for this LED. (for BLUE, 330 OHMS) | 10 | $0.06 | $0.60 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/RE0603FRE07330RL/5923348) |
-| **Parts subtotal** | — | — | — | **$21.03** | — |
+| **Parts subtotal** | — | — | — | **$13.74** | — |
 | **Tax & shipping** | — | — | — | **$4.99** | — |
-| **Total** | — | — | — | **$26.02** | — |
+| **Total** | — | — | — | **$18.73** | — |
 
-$3.98 left of the tier's funding.
+$11.27 left of the tier's funding.
