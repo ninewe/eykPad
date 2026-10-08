@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.99h | 3 |
+| Week 1 | Tier 1 | 4.73h | 3 |
 
 ## Contents
 
@@ -62,7 +62,7 @@ What really was hard though was routing and where to put all parts. Eventually, 
 
 ### 2026-10-07 – Pretty much nothing to say here except that I found an alternative 7 segment display (it's way cheaper, by 6 whole dollars) so I decided to wire that instead. It's a through hole display, but I will c
 
-**0.83h**
+**0.57h**
 
 Pretty much nothing to say here except that I found an alternative 7 segment display (it's way cheaper, by 6 whole dollars) so I decided to wire that instead. It's a through hole display, but I will cut the unnecessary ends off when I'm building to keep the bottom of the PCB flat.
 I think this PCB looks fine. And I also changed the unconnected GPIO PIN numbers to 0 and 1 because that's like testing serial communication in some microcontrollers (I think) and I think it does not apply to Raspberry Pi Pico but I changed it to that anyways. Rerouted parts of the PCB, didn't take too long.
