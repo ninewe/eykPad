@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.73h | 3 |
+| Week 1 | Tier 1 | 5.36h | 3 |
 
 ## Contents
 
@@ -62,10 +62,21 @@ What really was hard though was routing and where to put all parts. Eventually, 
 
 ### 2026-10-07 – Pretty much nothing to say here except that I found an alternative 7 segment display (it's way cheaper, by 6 whole dollars) so I decided to wire that instead. It's a through hole display, but I will c
 
-**0.57h**
+**1.2h**
 
 Pretty much nothing to say here except that I found an alternative 7 segment display (it's way cheaper, by 6 whole dollars) so I decided to wire that instead. It's a through hole display, but I will cut the unnecessary ends off when I'm building to keep the bottom of the PCB flat.
 I think this PCB looks fine. And I also changed the unconnected GPIO PIN numbers to 0 and 1 because that's like testing serial communication in some microcontrollers (I think) and I think it does not apply to Raspberry Pi Pico but I changed it to that anyways. Rerouted parts of the PCB, didn't take too long.
+I also updated the resistor values.
+
+**It took me about 15 minutes to do the math and research. Since I was really new to multiplexing, this was especially a hard challenge.**
+
+Now its like this:
+RED LED- 330 ohm
+YELLOW LED- 300 ohm
+BLUE LED- 75 ohm
+
+each light has its own resistor, so 30 resistors total (for LED)
+multiplexing (5 x 6)
 
 ![Screenshot 2026-10-07 at 7.31.08 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/WKHlWTArmY0mZYT5WZnx8k27wposj8rz/39040958076b37d248015808779e6915dddbf178c7d2c5f1ab802637dbfb82c8.png)
 
@@ -74,3 +85,5 @@ I think this PCB looks fine. And I also changed the unconnected GPIO PIN numbers
 [Timelapse](https://lookout.hackclub.com/api/media/11f002b7-1f3d-4a3b-9f83-903b72ebfe16/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/9f146cb9-b0cb-49af-a1aa-0366a3275fb5/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/2a35cfd3-2edd-4e18-be65-0beee193f7c4/video.mp4)
