@@ -7,9 +7,40 @@
 <b>A multifunctional pad!</b>
 
 This can be used for a timer, a sequence memory game, and other fun stuff!
-This project consists of 30 LEDs, (a 5 by 6 LED matrix). I used multiplexing to save GPIO pins.
+
+This project is a compact PCB to play minigames with basically just LEDS and a 7-segment display, such as memory games. It can also act as a productive tool, such as the pomodoro timer. This project consists of 30 LEDs, (a 5 by 6 LED matrix). I used multiplexing to save GPIO pins.
+
 It also has a 7 segment display, which is useful for displaying numbers, and that also expands the ideas of games I can make. I kept the buttons compact and minimal. There are only three buttons, where the main function of each of the buttons are: (go right), (switch color to pick), and (enter). This makes picking each light from the 30 LED way easier. 
 
 <img width="600" height="400" alt="SCHEMATIC view" src="https://github.com/user-attachments/assets/c0ebc2ad-81e6-4961-8572-5866c359cf7a" />
 
 <img width="600" height="400" alt="2D view PCB" src="https://github.com/user-attachments/assets/0c444a58-0114-40c6-a0c3-304f687f12b7" />
+
+
+
+# eykPad – bill of materials
+
+> [!NOTE]
+> This parts list is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+
+| Week | Tier | Parts funding |
+| --- | --- | --- |
+| Week 1 | Tier 1 | $30.00 |
+
+| Part | What it's for | Qty | Unit | Total | Vendor |
+| --- | --- | --- | --- | --- | --- |
+| [150080RS75000](https://www.digikey.com/en/products/detail/w-rth-elektronik/150080RS75000/4489918?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLliBca_8CoGRREvYeSftxtPPf&gclid=Cj0KCQjwuJLWBhD_ARIsAIBcRUyE15Ih_jkTIqsu-BNJK-R_mNFNQNt-TY-f5ciIsWRtXfK5UMoC-bQaAiLSEALw_wcB) | Outputs of this project. (Red LED) | 12 | $0.19 | $2.28 | [DigiKey](https://www.digikey.com/en/products/detail/w-rth-elektronik/150080RS75000/4489918?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLliBca_8CoGRREvYeSftxtPPf&gclid=Cj0KCQjwuJLWBhD_ARIsAIBcRUyE15Ih_jkTIqsu-BNJK-R_mNFNQNt-TY-f5ciIsWRtXfK5UMoC-bQaAiLSEALw_wcB) |
+| [150080BS75000](https://www.digikey.com/en/products/detail/würth-elektronik/150080BS75000/4489912?s=N4IgTCBcDaIIwFYAMSAcSBCBlA7MlIAugL5A) | Outputs of this project. (Blue LED) | 12 | $0.19 | $2.28 | [DigiKey](https://www.digikey.com/en/products/detail/würth-elektronik/150080BS75000/4489912?s=N4IgTCBcDaIIwFYAMSAcSBCBlA7MlIAugL5A) |
+| [150080YS75000](https://www.digikey.com/en/products/detail/würth-elektronik/150080YS75000/4489927?s=N4IgTCBcDaIIwFYAMSAcSCaBlA7MlIAugL5A) | Outputs of this project. (Yellow LED) | 12 | $0.19 | $2.28 | [DigiKey](https://www.digikey.com/en/products/detail/würth-elektronik/150080YS75000/4489927?s=N4IgTCBcDaIIwFYAMSAcSCaBlA7MlIAugL5A) |
+| [SC0915](https://www.digikey.com/en/products/detail/raspberry-pi/SC0915/13624793) | The microcontroller. (Raspberry Pi Pico) | 1 | $4.59 | $4.59 | [DigiKey](https://www.digikey.com/en/products/detail/raspberry-pi/SC0915/13624793) |
+| [B3FS-1000P](https://www.digikey.com/en/products/detail/aratas-formerly-omron-components/B3FS-1000P/277812) | Inputs of this project. (The buttons) | 3 | $0.75 | $2.25 | [DigiKey](https://www.digikey.com/en/products/detail/aratas-formerly-omron-components/B3FS-1000P/277812) |
+| [RC0603FR-10330RL](https://www.digikey.com/en/products/detail/yageo/rc0603fr-10330rl/13694144?_gl=1*120rrj8*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNawzWwHylZYBSNY6BOOnOnXhfwnokVGLYxYg4FlJP0YA3B5n22bPJ0aAlVSEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAADrbLlhJyPxw7Auh62ErySqGjBCvJ) | Resistors for this LED. (for RED, 330 OHMS) | 10 | $0.03 | $0.30 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/rc0603fr-10330rl/13694144?_gl=1*120rrj8*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNawzWwHylZYBSNY6BOOnOnXhfwnokVGLYxYg4FlJP0YA3B5n22bPJ0aAlVSEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAADrbLlhJyPxw7Auh62ErySqGjBCvJ) |
+| [LTS-6960HR](https://www.digikey.com/en/products/detail/liteon/LTS-6960HR/3199487) | Outputs of this project. (7 segment display) | 1 | $1.82 | $1.82 | [DigiKey](https://www.digikey.com/en/products/detail/liteon/LTS-6960HR/3199487) |
+| [RC0603FR-10300RL](https://www.digikey.com/en/products/detail/yageo/RC0603FR-10300RL/14008461?gclsrc=aw.ds&gad_source=1&gad_campaignid=17335707486&gbraid=0AAAAADrbLlhJyPxw7Auh62ErySqGjBCvJ&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNawzWwHylZYBSNY6BOOnOnXhfwnokVGLYxYg4FlJP0YA3B5n22bPJ0aAlVSEALw_wcB) | Resistors for this LED. (for YELLOW, 300 OHMS) | 10 | $0.03 | $0.30 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/RC0603FR-10300RL/14008461?gclsrc=aw.ds&gad_source=1&gad_campaignid=17335707486&gbraid=0AAAAADrbLlhJyPxw7Auh62ErySqGjBCvJ&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNawzWwHylZYBSNY6BOOnOnXhfwnokVGLYxYg4FlJP0YA3B5n22bPJ0aAlVSEALw_wcB) |
+| [RC0603FR-0775RL](https://www.digikey.com/en/products/detail/yageo/RC0603FR-0775RL/727377?gclsrc=aw.ds&gad_source=1&gad_campaignid=17335707486&gbraid=0AAAAADrbLlhJyPxw7Auh62ErySqGjBCvJ&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNYsVzW8jDgrS64-7hHOIiOrCPiaaJvFeVMSugW8Nx8k4qDhcNRlPbUaAuaSEALw_wcB) | Resistors for this LED. (for BLUE, 75 OHMS) | 10 | $0.03 | $0.30 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/RC0603FR-0775RL/727377?gclsrc=aw.ds&gad_source=1&gad_campaignid=17335707486&gbraid=0AAAAADrbLlhJyPxw7Auh62ErySqGjBCvJ&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNYsVzW8jDgrS64-7hHOIiOrCPiaaJvFeVMSugW8Nx8k4qDhcNRlPbUaAuaSEALw_wcB) |
+| [PCB Board (SHIPPING INCLUDED)](https://jlcpcb.com) | The main PCB board | 1 | $5.06 | $5.06 | [JCLPCB](https://jlcpcb.com) |
+| **Parts subtotal** | — | — | — | **$21.46** | — |
+| **Tax & shipping** | — | — | — | **$7.75** | — |
+| **Total** | — | — | — | **$29.21** | — |
+
+$0.79 left of the tier's funding.
