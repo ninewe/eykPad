@@ -1,0 +1,14 @@
+Part,Qty,Unit,Total,Vendor,Link,Purpose
+150080RS75000,12,$0.19,$2.28,DigiKey,https://www.digikey.com/en/products/detail/würth-elektronik/150080RS75000/4489918?s=N4IgTCBcDaIIwFYAMSAcSBKBlA7MlIAugL5A,Outputs of this project. (Red LED)
+150080BS75000,12,$0.19,$2.28,DigiKey,https://www.digikey.com/en/products/detail/würth-elektronik/150080BS75000/4489912?s=N4IgTCBcDaIIwFYAMSAcSBCBlA7MlIAugL5A,Outputs of this project. (Blue LED)
+150080YS75000,12,$0.19,$2.28,DigiKey,https://www.digikey.com/en/products/detail/würth-elektronik/150080YS75000/4489927?s=N4IgTCBcDaIIwFYAMSAcSCaBlA7MlIAugL5A,Outputs of this project. (Yellow LED)
+SC0915,1,$4.59,$4.59,DigiKey,https://www.digikey.com/en/products/detail/raspberry-pi/SC0915/13624793,The microcontroller. (Raspberry Pi Pico)
+B3FS-1000P,3,$0.75,$2.25,DigiKey,https://www.digikey.com/en/products/detail/aratas-formerly-omron-components/B3FS-1000P/277812,Inputs of this project. (The buttons)
+RC0603FR-10330RL,10,$0.03,$0.30,DigiKey,https://www.digikey.com/en/products/detail/yageo/rc0603fr-10330rl/13694144?_gl=1*120rrj8*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNawzWwHylZYBSNY6BOOnOnXhfwnokVGLYxYg4FlJP0YA3B5n22bPJ0aAlVSEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAADrbLlhJyPxw7Auh62ErySqGjBCvJ,"Resistors for this LED. (for Red, 330 OHMS)"
+LTS-6960HR,1,$1.82,$1.82,DigiKey,https://www.digikey.com/en/products/detail/liteon/LTS-6960HR/3199487,Outputs of this project. (7 segment display)
+RC0603FR-10300RL,10,$0.03,$0.30,DigiKey,https://www.digikey.com/en/products/detail/yageo/RC0603FR-10300RL/14008461?gclsrc=aw.ds&gad_source=1&gad_campaignid=17335707486&gbraid=0AAAAADrbLlhJyPxw7Auh62ErySqGjBCvJ&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNawzWwHylZYBSNY6BOOnOnXhfwnokVGLYxYg4FlJP0YA3B5n22bPJ0aAlVSEALw_wcB,"Resistors for this LED. (for Yellow, 300 OHMS)"
+RC0603FR-0775RL,10,$0.03,$0.30,DigiKey,https://www.digikey.com/en/products/detail/yageo/RC0603FR-0775RL/727377?gclsrc=aw.ds&gad_source=1&gad_campaignid=17335707486&gbraid=0AAAAADrbLlhJyPxw7Auh62ErySqGjBCvJ&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNYsVzW8jDgrS64-7hHOIiOrCPiaaJvFeVMSugW8Nx8k4qDhcNRlPbUaAuaSEALw_wcB,"Resistors for this LED. (for Blue, 75 OHMS)"
+PCB Board (SHIPPING INCLUDED),1,$5.06,$5.06,JCLPCB,-,The main PCB board.
+Subtotal,-,-,$21.46,-,-,
+Tarrifs & Shipping,-,-,$7.75,-,-,
+Total,-,-,$29.21,-,-,
